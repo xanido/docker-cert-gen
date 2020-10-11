@@ -1,4 +1,4 @@
 docker build \
-  -t xanido/docker-build-gen:v1 \
-  -t xanido/docker-build-gen \
+  -t xanido/docker-cert-gen:v1 \
+  -t xanido/docker-cert-gen \
   .
